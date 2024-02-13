@@ -35,8 +35,17 @@
 
 <h3>➥ Yeni Rezarvasyon Formu </h3>
 
-<p><b>NOT:</b> <i>Tüm Odalar</i> başlığının altında bulunan odalar veri tabanından çekilmekte olup, veri tabanına yeni bi' oda eklenmesi durumunda (Oda ve Kat İşlemleri ile kolayca eklenebilir.) <i>Yeni Rezarvasyon Formu</i>'nu kapatıp açılması ile otomatik (dinamik) olarak listelenip, oda üzerinde işlem yapılabilecektir.</p>
-<p><b>Normal Rezarvasyon:</b> </p>
+<p><b>NOT:</b> <i>Tüm Odalar</i> başlığının altında bulunan odalar veri tabanından çekilmekte olup, veri tabanına yeni bi' oda eklenmesi durumunda (Oda ve Kat İşlemleri ile kolayca eklenebilir.) <i>Yeni Rezarvasyon Formu</i>'nu kapatıp açılması ile otomatik (dinamik) olarak listelenip, yeni eklenen oda üzerinde işlem yapılabilmektedir.</p>
 
-<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.1.0-yeni-rezarvasyon-form.png"><br><br>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.1.0-yeni-rezarvasyon-form.png"><br>
+
+<p><b>Normal Rezarvasyon:</b> Müşteri fiziksel olarak resepsiyonda bulunması halinde kullanılacak rezervasyon işlemidir. Bu işlem sırasında çıkış tarihi girilmez, müşteri çıkış yapacağı zaman resepsiyona uğrayıp, resepsiyondan çıkış yapması gerekmektedir (Müşteri Çıkışı ile yapılır). İşlem yapıldığında oda durumu kırmızıya döner ve müşteri çıkış yapana kadar hiçbir işlem yapılamaz.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.1.1-yeni-rezarvasyon_normal-rezarvasyon-form.png"><br>
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.1.2-yeni-rezarvasyon_normal-rezarvasyon_onay-form.png"><br><br>
+
+<p><b>Oda Ayırtma:</b> Müşteri gelmeden; kendisine ait oda ayırtmak istiyor ise bu işlem kullanılır. İşlem sırasında çıkış tarihi kesin olarak belirlenir. Müşteri fiziksel olarak resepsiyona geldiğinde, oda <i>Normal Rezarvasyon</i>'a çevrilebilir ve fiziksel olarak resepsiyondan rezarvasyon yaptırdığı tarihten itibaren ücret uygulanır. Müşteri belirtiği tarihte gelmemesi durumunda ise, sistem otomatik olarak çıkış işlemini yapıp oda durumunu <code>boş odaya</code> çevirir.</p>
+
+
 

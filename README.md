@@ -1,4 +1,4 @@
-<h1 align="center"> 🏢 Hotel Otomasyonu </h1>
+<h1 align="center"> 🏢 Hotel Otomasyonu </h1
 <p> ⏺ Proje; C dili, Visual Studio 2022 <i>(.NET 7.0 Framework)</i> ve Microsoft SQL Server yazılımları ile tasarlanmış/geliştirilmiştir.</p><br>
 
 <h2 align="center"> ✒️ Projenin Amacı </h2>

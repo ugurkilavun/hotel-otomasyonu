@@ -11,9 +11,7 @@
 <br>
 <h3>➥ Giriş Formu </h3>
 
-<ul>
- <li>Tek bir giriş ekranından, kullanıcının yetki durumuna göre; <i>buttonlar görünür ve aktif</i> ya da <i>gizle ve pasif olcaktır</i> (Oda ve Kat İşlemleri, Personel Ekle, Personel Bilgilerini Düzenle ve Telefon No İşlemleri).</li>
-</ul>
+<p>Tek bir giriş ekranından, kullanıcının yetki durumuna göre; <i>buttonlar görünür ve aktif</i> ya da <i>gizle ve pasif olcaktır</i> (Oda ve Kat İşlemleri, Personel Ekle, Personel Bilgilerini Düzenle ve Telefon No İşlemleri).</p>
 
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/1-giris-form.png"><br>
 
@@ -22,10 +20,8 @@
 
 <h3>➥ Ana Form </h3>
 
-<ul>
- <li>Ana Form'da kullanıcının adı, soyadı ve yetki durumu görünmektedir.</li>
- <li>Avatar/Profil resmi bulunan alana tıklandığında ise, giriş yapan/aktif oturum açan kullanıcıya ait tüm bilgiler gösterilerek düzenlenebilmektedir.</li>
-</ul>
+<p>
+ Ana Form'da kullanıcının adı, soyadı ve yetki durumu görüntülenmektedir. Avatar/Profil resmi bulunan alana tıklandığında ise, giriş yapan/aktif oturum açan kullanıcıya ait tüm bilgiler gösterilerek düzenlenebilmektedir.</p>
 
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/2.1-ana-form.png"><br><br>
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/2.2-bilgilerini-duzenle-form.png"><br>

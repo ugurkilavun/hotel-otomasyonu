@@ -1,0 +1,295 @@
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.exe
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.deps.json
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.runtimeconfig.json
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.AssemblyReference.cache
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.GenerateResource.cache
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfoInputs.cache
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfo.cs
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CoreCompileInputs.cache
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CopyComplete
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\refint\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.genruntimeconfig.cache
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\ref\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.Properties.Resources.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.main_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.add_customer_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.query_customer_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.new_reservation_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.all_reservations_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.customer_reservation_exit_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.startup_configuration_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.LoginForm.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.room_and_floor_processes_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_operations_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_edit_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_number_processes_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_information_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_numbers_form.resources
+D:\Arka Plan Masaüstü\Sistem Analizi Ve Tasarım Dersi Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.helps_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.exe
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.deps.json
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.runtimeconfig.json
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.AssemblyReference.cache
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.add_customer_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.all_reservations_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.customer_reservation_exit_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.helps_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.LoginForm.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.main_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.new_reservation_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_edit_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_information_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_operations_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_numbers_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_number_processes_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.Properties.Resources.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.query_customer_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.room_and_floor_processes_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.startup_configuration_form.resources
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.GenerateResource.cache
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfoInputs.cache
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfo.cs
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CoreCompileInputs.cache
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CopyComplete
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\refint\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.genruntimeconfig.cache
+D:\Arka Plan Masaüstü\Yedeklenen Klasörler\Üniversite\2.Sınıf\Güz Dönemi\Sistem Analizi Ve Tasarımı\Otel Otomasyonu - Proje\1216829803\Proje\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\ref\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.exe
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.deps.json
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.runtimeconfig.json
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.pdb
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.add_customer_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.all_reservations_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.customer_reservation_exit_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.helps_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.LoginForm.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.main_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.new_reservation_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_edit_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_information_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_operations_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_numbers_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_number_processes_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.Properties.Resources.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.query_customer_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.room_and_floor_processes_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.startup_configuration_form.resources
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.GenerateResource.cache
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfoInputs.cache
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfo.cs
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CopyComplete
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\refint\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.pdb
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.genruntimeconfig.cache
+C:\Users\ugurk\OneDrive\Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\ref\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.exe
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.deps.json
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.runtimeconfig.json
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.AssemblyReference.cache
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.add_customer_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.all_reservations_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.customer_reservation_exit_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.helps_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.LoginForm.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.main_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.new_reservation_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_edit_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_information_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_operations_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_numbers_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_number_processes_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.Properties.Resources.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.query_customer_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.room_and_floor_processes_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.startup_configuration_form.resources
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.GenerateResource.cache
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfoInputs.cache
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfo.cs
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CoreCompileInputs.cache
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CopyComplete
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\refint\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.genruntimeconfig.cache
+D:\Arka Plan Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\ref\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ugurk\OneDrive\Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\refint\hotel_otomasyonu.dll
+C:\Users\ugurk\OneDrive\Masaüstü\Github\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.AssemblyReference.cache
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\refint\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.exe
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.deps.json
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.runtimeconfig.json
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\hotel_otomasyonu.pdb
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.add_customer_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.all_reservations_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.customer_reservation_exit_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.helps_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.LoginForm.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.main_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.new_reservation_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_edit_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_information_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.personnel_operations_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_numbers_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.phone_number_processes_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.Properties.Resources.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.query_customer_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.room_and_floor_processes_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.startup_configuration_form.resources
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.GenerateResource.cache
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfoInputs.cache
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.AssemblyInfo.cs
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CoreCompileInputs.cache
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.csproj.CopyComplete
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.genruntimeconfig.cache
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\ref\hotel_otomasyonu.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Arka Plan Masaüstü\hotel_otomasyonu\hotel_otomasyonu\obj\Debug\net7.0-windows\hotel_otomasyonu.sourcelink.json

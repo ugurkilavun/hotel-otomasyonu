@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="add_customer_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="all_reservations_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customer_reservation_exit_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="helps_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="new_reservation_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personnel-edit-form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personnel_information_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personnel_operations_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="phone_numbers_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="phone_number_processes_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="query_customer_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="room_and_floor_processes_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="startup_configuration_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

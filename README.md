@@ -57,4 +57,4 @@
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.3.0-yeni-rezarvasyon_oda-renkleri-form.png"><br><br>
 
 <hr><br><br>
-
+<b>...</b>

@@ -41,7 +41,7 @@
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.1.1-yeni-rezarvasyon_normal-rezarvasyon-form.png"><br>
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.1.2-yeni-rezarvasyon_normal-rezarvasyon_onay-form.png"><br><br>
 
-<p><b>Oda Ayırtma:</b> Müşteri gelmeden; kendisine ait oda ayırtmak istiyor ise bu işlem kullanılır. İşlem sırasında çıkış tarihi kesin olarak belirlenir, işlem yapıldıktan sonra ise oda rengi sarıya döner. Müşteri fiziksel olarak resepsiyona geldiğinde, oda <i>Normal Rezarvasyon</i>'a çevrilebilir ve fiziksel olarak resepsiyondan rezarvasyon yaptırdığı tarihten itibaren ücret uygulanır. Müşteri belirtiği tarihte gelmemesi durumunda ise, sistem otomatik olarak çıkış işlemini yapıp oda durumunu <code>boş odaya</code> çevirir.</p>
+<p><b>Geçici Süreliğine Ayırt:</b> Müşteri gelmeden; kendisine ait oda ayırtmak istiyor ise bu işlem kullanılır. İşlem sırasında çıkış tarihi kesin olarak belirlenir, işlem yapıldıktan sonra ise oda rengi sarıya döner. Müşteri fiziksel olarak resepsiyona geldiğinde, oda <i>Normal Rezarvasyon</i>'a çevrilebilir ve fiziksel olarak resepsiyondan rezarvasyon yaptırdığı tarihten itibaren ücret uygulanır. Müşteri belirtiği tarihte gelmemesi durumunda ise, sistem otomatik olarak çıkış işlemini yapıp oda durumunu <code>boş odaya</code> çevirir.</p>
 
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.2.1-yeni-rezarvasyon_gecici-sureligine-ayirt-form.png"><br>
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.2.2-yeni-rezarvasyon_gecici-sureligine-ayirt_onay-form.png"><br><br>

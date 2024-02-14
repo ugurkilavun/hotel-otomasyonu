@@ -56,5 +56,67 @@
 </p>
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/3.3.0-yeni-rezarvasyon_oda-renkleri-form.png"><br><br>
 
-<hr><br><br>
-<b>...</b>
+<!-- *_* -->
+<hr><br>
+
+<h3>➥ Müşteri Ekle </h3>
+
+<p>Yeni müşteri eklemek için kullanılır.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/4-musteri-ekle-form.png"><br><br>
+
+<!-- -_* -->
+<hr><br>
+
+<h3>➥ Müsteri Sorgula </h3>
+
+<p>Sisteme kayıtlı müşterilerin bilgilerinin doğruluğunu kontrol etmek, güncelmek; aktif veya geçmiş rezarvasyonlarını görmek için kullanılır.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/5-musteri-sorgula-form.png"><br><br>
+
+<!-- -_- -->
+<hr><br>
+
+<h3>➥ Müsteri Çıkışı </h3>
+
+<p>Sisteme kayıtlı müşterilerin, aktif rezarvasyonlarını kapalı duruma; yani müşteri çıkışı yapmak için kullanılır.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/6-musteri-cikisi-form.png"><br><br>
+
+<!-- ?_- -->
+<hr><br>
+
+<h3>➥ Tüm Kayıtlar </h3>
+
+<p>Tüm aktfi ve geçmiş rezarvasyonlar, oda ayırtma işlemleri burada listelenir.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/7-tum-rezarvasyonlar-form.png"><br><br>
+
+
+<!-- ?_? -->
+<hr><br>
+
+<h3>➥ Telefon Numaraları </h3>
+
+<p>Oda ve katlar bağlı tüm telefon numaraları burada listelenir.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/8-telefon-numaralari-form.png"><br><br>
+
+<!-- ?,? -->
+<hr><br>
+
+<h3>➥ Yardım </h3>
+
+<p>Sistemin kullanımını detaylı bir şekilde anlatan bi' kılavuz.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/9-yardim-form.png"><br><br>
+
+
+<!-- ? -->
+<hr><br>
+
+<h3>➥ Oda ve Kat İşlemleri </h3>
+
+<p>Oda ve katlar bu form alanında eklenir.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/oda-ve-kat-islemleri-form.png"><br><br>

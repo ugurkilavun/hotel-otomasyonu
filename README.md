@@ -88,7 +88,7 @@
 
 <h3>➥ Tüm Kayıtlar </h3>
 
-<p>Tüm aktfi ve geçmiş rezarvasyonlar, oda ayırtma işlemleri burada listelenir.</p>
+<p>Tüm aktif ve geçmiş rezarvasyonlar, oda ayırtma işlemleri burada listelenir.</p>
 
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/7-tum-rezarvasyonlar-form.png"><br><br>
 
@@ -113,10 +113,39 @@
 
 
 <!-- ? -->
-<hr><br>
+<hr>
+<h3> <u>#Bu formlara sadece Müdür ve Müdür Yardımcısı yetki duruma sahip kullanıcılar görebilir ve erişebilir.#</u> </h3>
+<br>
 
 <h3>➥ Oda ve Kat İşlemleri </h3>
 
 <p>Oda ve katlar bu form alanında eklenir.</p>
 
-<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/oda-ve-kat-islemleri-form.png"><br><br>
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/10-oda-ve-kat-islemleri-form.png"><br><br>
+
+<!-- ** -->
+<hr><br>
+
+<h3>➥ Personel Ekle </h3>
+
+<p>Sisteme yeni bir personel/çalışan eklemek için kullanılır.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/11-personel-ekle-form.png"><br><br>
+
+<!-- ** -->
+<hr><br>
+
+<h3>➥ Personel Bilgilerini Düzenle </h3>
+
+<p>Sisteme kayıtlı personellerin/çalışanların bilgilerini düzenlemek veya personelin/çalışanın işten çıkması halinde personelin/çalışanın hesabını pasif hale getirmek için kullanılır.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/12-personel-duzenle-form.png"><br><br>
+
+<!-- ** -->
+<hr><br>
+
+<h3>➥ Telefon No İşlemleri </h3>
+
+<p>Odalara ve katlara bağlı telefon numarası eklemek veya düzenlemek için kullanılır.</p>
+
+<img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/13-telefon-no-islemleri-form.png"><br><br>

@@ -114,7 +114,7 @@
 
 <!-- ? -->
 <hr>
-<h3> <u>#Bu formlara sadece Müdür ve Müdür Yardımcısı yetki duruma sahip kullanıcılar görebilir ve erişebilir.#</u> </h3>
+<h3> <u>*Aşağıda açıklanan formlara sadece Müdür ve Müdür Yardımcısı yetki duruma sahip kullanıcılar görebilir ve erişebilir.</u> </h3>
 <br>
 
 <h3>➥ Oda ve Kat İşlemleri </h3>

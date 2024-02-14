@@ -152,7 +152,7 @@
 
 <hr><br>
 
-<h2 align="center">Sistemi İndirecek ve Kullanacak Olan Kişiler İçin </h2>
+<h2 align="center"> ⭐ Sistemi İndirecek ve Kullanacak Olan Kişiler İçin </h2>
 <h3> ⭕ Veri Tabanı İşlemi</h3>
 <p>Sistemin doğru çalışabilmesi için, <a href="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/hotel-query.sql">'hotel-query.sql'</a> ile belirtilen query dosyasıyla veri tabanı oluşturulmalıdır.</p><br>
 

@@ -1,5 +1,5 @@
 <h1 align="center"> 🏢 Hotel Otomasyonu </h1>
-<p> ⏺ Proje; C dili, Visual Studio 2022 <i>(.NET 7.0 Framework)</i> ve Microsoft SQL Server yazılımları ile tasarlanmıştır/geliştirilmiştir.</p><br>
+<p> ⏺ Proje; C# dili, Visual Studio 2022 <i>(.NET 7.0 Framework)</i> ve Microsoft SQL Server yazılımları ile tasarlanmıştır/geliştirilmiştir.</p><br>
 
 <h2 align="center"> ✒️ Projenin Amacı </h2>
 <p> ⏺ Bilgisayar Programcılığı Programı/Bölümü, <i>Sistem Analizi ve Tasarımı</i> dersi için bir bitirme ödevi/projesidir.</p><br>

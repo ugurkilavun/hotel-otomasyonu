@@ -149,3 +149,12 @@
 <p>Odalara ve katlara bağlı telefon numarası eklemek veya düzenlemek için kullanılır.</p>
 
 <img src="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/ilgili-resimler/13-telefon-no-islemleri-form.png"><br><br>
+
+<hr><br>
+
+<h2 align="center">Sistemi İndirecek ve Kullanacak Olan Kişiler İçin </h2>
+<h3> ⭕ Veri Tabanı İşlemi</h3>
+<p>Sistemin doğru çalışabilmesi için, <a href="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/hotel-query.sql">'hotel-query.sql'</a> ile belirtilen query dosyasıyla veri tabanı oluşturulmalıdır.</p><br>
+
+<h3> ⭕ Sistem İçi Değişiklikler</h3>
+<p>Sistem, veri tabanı bağlantısını tek bir değişken üzerinden yapmaktadır. Bu ayarı özelleştirmek için; <a href="https://github.com/ugurkilavun/hotel-otomasyonu/tree/main">hotel-otomasyonu</a> repository sinin altında bulunan <a href="https://github.com/ugurkilavun/hotel-otomasyonu/blob/main/hotel_otomasyonu/hotel_otomasyonu/Classes.cs">hotel_otomasyonu/hotel_otomasyonu/Classes.cs</a> dosyasındaki <u>public static string ConnectionStringVarible()</u> metodunun altında bulunan <u>ConnectionString</u> değişkeninin değerini değiştirerek doğru bir şekilde çalıştırılabilir.</p><br>
